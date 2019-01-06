@@ -1,0 +1,52 @@
+homebrew_taps:
+  - { name: homebrew/cask }
+
+homebrew_packages:
+#  - { name: mysql }
+#  - { name: fzf }
+#  - { name: emojify }
+#  - { name: heroku-toolbelt }
+#  - { name: rmtrash }
+#  - { name: openssl }
+#  - { name: libxml2 }
+#  - { name: mcrypt }
+#  - { name: autoconf }
+#  - { name: automake }
+#  - { name: bison }
+#  - { name: chromedriver }
+#  - { name: docker-machine }
+#  - { name: jq }
+  - { name: tree }
+  - { name: curl }
+  - { name: nkf }
+#  - { name: peco }
+#  - { name: zplug }
+#  - { name: parallel }
+  - { name: wget }
+  - { name: awscli }
+#  - { name: node }
+#  - { name: libjpeg }
+#  - { name: libpng }
+  - { name: zsh }
+#  - { name: pcre }
+  - { name: ansible }
+#  - { name: tig }
+#  - { name: redis }
+#  - { name: graphviz }
+#  - { name: textql }
+
+homebrew_cask_packages:
+#  - { name: dash }
+#  - { name: thyme }
+#  - { name: skype }
+#  - { name: docker }
+  - { name: visual-studio-code }
+#  - { name: phpstorm }
+#  - { name: spectacle }
+  - { name: alfred }
+  - { name: iterm2 }
+#  - { name: slack }
+  - { name: google-chrome }
+#  - { name: macdown }
+#  - { name: sequel-pro }
+#  - { name: vivaldi }
